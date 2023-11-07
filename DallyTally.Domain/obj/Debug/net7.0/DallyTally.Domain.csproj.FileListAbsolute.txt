@@ -1,0 +1,12 @@
+C:\Users\EdwardduPlessis\Documents\Personal\Repos\DallyTally\DallyTally.Domain\bin\Debug\net7.0\DallyTally.Domain.deps.json
+C:\Users\EdwardduPlessis\Documents\Personal\Repos\DallyTally\DallyTally.Domain\bin\Debug\net7.0\DallyTally.Domain.dll
+C:\Users\EdwardduPlessis\Documents\Personal\Repos\DallyTally\DallyTally.Domain\bin\Debug\net7.0\DallyTally.Domain.pdb
+C:\Users\EdwardduPlessis\Documents\Personal\Repos\DallyTally\DallyTally.Domain\obj\Debug\net7.0\DallyTally.Domain.csproj.AssemblyReference.cache
+C:\Users\EdwardduPlessis\Documents\Personal\Repos\DallyTally\DallyTally.Domain\obj\Debug\net7.0\DallyTally.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EdwardduPlessis\Documents\Personal\Repos\DallyTally\DallyTally.Domain\obj\Debug\net7.0\DallyTally.Domain.AssemblyInfoInputs.cache
+C:\Users\EdwardduPlessis\Documents\Personal\Repos\DallyTally\DallyTally.Domain\obj\Debug\net7.0\DallyTally.Domain.AssemblyInfo.cs
+C:\Users\EdwardduPlessis\Documents\Personal\Repos\DallyTally\DallyTally.Domain\obj\Debug\net7.0\DallyTally.Domain.csproj.CoreCompileInputs.cache
+C:\Users\EdwardduPlessis\Documents\Personal\Repos\DallyTally\DallyTally.Domain\obj\Debug\net7.0\DallyTally.Domain.dll
+C:\Users\EdwardduPlessis\Documents\Personal\Repos\DallyTally\DallyTally.Domain\obj\Debug\net7.0\refint\DallyTally.Domain.dll
+C:\Users\EdwardduPlessis\Documents\Personal\Repos\DallyTally\DallyTally.Domain\obj\Debug\net7.0\DallyTally.Domain.pdb
+C:\Users\EdwardduPlessis\Documents\Personal\Repos\DallyTally\DallyTally.Domain\obj\Debug\net7.0\ref\DallyTally.Domain.dll

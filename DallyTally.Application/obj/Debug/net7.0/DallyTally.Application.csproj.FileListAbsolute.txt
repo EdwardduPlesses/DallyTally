@@ -1,0 +1,15 @@
+C:\Users\EdwardduPlessis\Documents\Personal\Repos\DallyTally\DallyTally.Application\bin\Debug\net7.0\DallyTally.Application.deps.json
+C:\Users\EdwardduPlessis\Documents\Personal\Repos\DallyTally\DallyTally.Application\bin\Debug\net7.0\DallyTally.Application.dll
+C:\Users\EdwardduPlessis\Documents\Personal\Repos\DallyTally\DallyTally.Application\bin\Debug\net7.0\DallyTally.Application.pdb
+C:\Users\EdwardduPlessis\Documents\Personal\Repos\DallyTally\DallyTally.Application\bin\Debug\net7.0\DallyTally.Domain.dll
+C:\Users\EdwardduPlessis\Documents\Personal\Repos\DallyTally\DallyTally.Application\bin\Debug\net7.0\DallyTally.Domain.pdb
+C:\Users\EdwardduPlessis\Documents\Personal\Repos\DallyTally\DallyTally.Application\obj\Debug\net7.0\DallyTally.Application.csproj.AssemblyReference.cache
+C:\Users\EdwardduPlessis\Documents\Personal\Repos\DallyTally\DallyTally.Application\obj\Debug\net7.0\DallyTally.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EdwardduPlessis\Documents\Personal\Repos\DallyTally\DallyTally.Application\obj\Debug\net7.0\DallyTally.Application.AssemblyInfoInputs.cache
+C:\Users\EdwardduPlessis\Documents\Personal\Repos\DallyTally\DallyTally.Application\obj\Debug\net7.0\DallyTally.Application.AssemblyInfo.cs
+C:\Users\EdwardduPlessis\Documents\Personal\Repos\DallyTally\DallyTally.Application\obj\Debug\net7.0\DallyTally.Application.csproj.CoreCompileInputs.cache
+C:\Users\EdwardduPlessis\Documents\Personal\Repos\DallyTally\DallyTally.Application\obj\Debug\net7.0\DallyTally.Application.csproj.CopyComplete
+C:\Users\EdwardduPlessis\Documents\Personal\Repos\DallyTally\DallyTally.Application\obj\Debug\net7.0\DallyTally.Application.dll
+C:\Users\EdwardduPlessis\Documents\Personal\Repos\DallyTally\DallyTally.Application\obj\Debug\net7.0\refint\DallyTally.Application.dll
+C:\Users\EdwardduPlessis\Documents\Personal\Repos\DallyTally\DallyTally.Application\obj\Debug\net7.0\DallyTally.Application.pdb
+C:\Users\EdwardduPlessis\Documents\Personal\Repos\DallyTally\DallyTally.Application\obj\Debug\net7.0\ref\DallyTally.Application.dll

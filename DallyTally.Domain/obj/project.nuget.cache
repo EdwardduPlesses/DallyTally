@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "chc1hBYS81MERge74GbN/g7vbpI/8eUx650702NTXxfkvdc7RHry4zWrZ0XiPEes+1RureNMqAelsCZjDnjRrQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\EdwardduPlessis\\Documents\\Personal\\Repos\\DallyTally\\DallyTally.Domain\\DallyTally.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EdwardduPlessis\\.nuget\\packages\\intent.roslynweaver.attributes\\2.0.1\\intent.roslynweaver.attributes.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

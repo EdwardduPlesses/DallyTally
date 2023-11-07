@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Vdw8Fc+6oeLACP9Fz7V3WN0tT3ZMDe3+F7mM3avpV1M=",
+  "Source": "DallyTally.Api",
+  "BasePath": "_content/DallyTally.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
