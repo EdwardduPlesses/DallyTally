@@ -99,3 +99,4 @@ C:\Users\EdwardduPlessis\Documents\Personal\Repos\DallyTally\DallyTally.Api\obj\
 C:\Users\EdwardduPlessis\Documents\Personal\Repos\DallyTally\DallyTally.Api\obj\Debug\net7.0\DallyTally.Api.pdb
 C:\Users\EdwardduPlessis\Documents\Personal\Repos\DallyTally\DallyTally.Api\obj\Debug\net7.0\DallyTally.Api.genruntimeconfig.cache
 C:\Users\EdwardduPlessis\Documents\Personal\Repos\DallyTally\DallyTally.Api\obj\Debug\net7.0\ref\DallyTally.Api.dll
+C:\Users\EdwardduPlessis\Documents\Personal\Repos\DallyTally\DallyTally.Api\bin\Debug\net7.0\appsettings.LOCAL.json
