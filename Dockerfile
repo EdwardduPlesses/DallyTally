@@ -4,7 +4,7 @@ FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build-env
 WORKDIR /app
 
 # Copy the CSPROJ file and restore any dependencies (via NUGET)
-COPY *.csproj ./
+COPY DallyTally.Api/DallyTally.Api.csproj ./
 RUN dotnet restore
 
 # Copy the project files and build the release
