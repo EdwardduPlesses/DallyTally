@@ -9,7 +9,7 @@ RUN dotnet restore
 
 # Copy the project files and build the release
 COPY . ./
-RUN dotnet publish -c Release -o out
+RUN dotnet publish DallyTally/DallyTally.Api/DallyTally.Api.csproj -c Release -o out
 
 # Generate runtime image
 FROM mcr.microsoft.com/dotnet/aspnet:7.0
