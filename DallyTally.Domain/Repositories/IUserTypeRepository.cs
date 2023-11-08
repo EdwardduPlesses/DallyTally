@@ -19,5 +19,7 @@ namespace DallyTally.Domain.Repositories
         Task<UserType> FindByIdAsync(Guid id, CancellationToken cancellationToken = default);
         [IntentManaged(Mode.Fully)]
         Task<List<UserType>> FindByIdsAsync(Guid[] ids, CancellationToken cancellationToken = default);
+
+        Task SeedUserTypeAsync(CancellationToken cancellationToken);
     }
 }

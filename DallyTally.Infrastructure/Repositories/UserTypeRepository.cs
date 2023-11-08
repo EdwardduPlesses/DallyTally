@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
+using DallyTally.Domain;
 using DallyTally.Domain.Entities;
 using DallyTally.Domain.Repositories;
 using DallyTally.Infrastructure.Persistence;
@@ -21,14 +22,45 @@ namespace DallyTally.Infrastructure.Repositories
         {
         }
 
-        public async Task<UserType> FindByIdAsync(Guid id, CancellationToken cancellationToken = default)
+        public async Task<UserType> FindByIdAsync(Guid id,
+                                                  CancellationToken cancellationToken = default)
         {
             return await FindAsync(x => x.Id == id, cancellationToken);
         }
 
-        public async Task<List<UserType>> FindByIdsAsync(Guid[] ids, CancellationToken cancellationToken = default)
+        public async Task<List<UserType>> FindByIdsAsync(Guid[] ids,
+                                                         CancellationToken cancellationToken = default)
         {
             return await FindAllAsync(x => ids.Contains(x.Id), cancellationToken);
+        }
+
+        public async Task SeedUserTypeAsync(CancellationToken cancellationToken)
+        {
+            await AddUserTypeSeed(new UserType
+            {
+                Type = UserTypeEnum.User,
+                Description = "Normal User that can make guesses"
+            }, cancellationToken);
+            await AddUserTypeSeed(new UserType
+            {
+                Type = UserTypeEnum.Admin,
+                Description = "Admin User that can manage the DallyTally and make Guesses"
+            }, cancellationToken);
+        }
+
+        private async Task AddUserTypeSeed(UserType userType,
+                                           CancellationToken cancellationToken)
+        {
+            var existingUserType = await FindAsync(x => x.Type == userType.Type, cancellationToken);
+            if (existingUserType is not null)
+            {
+                existingUserType.Type = userType.Type;
+                existingUserType.Description = userType.Description;
+            }
+            else
+            {
+                Add(userType);
+            }
         }
     }
 }

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "R36tCDzMldNwxuK9u/EPhWNemznMbkLOfib1JddjHrLqlaXCo20acMvkJwV6pDn6U2pHyZbAgW0KmLhsnOOzUw==",
+  "dgSpecHash": "Bs1ejMH9Lk+4mY4ENhQ466mxcZHBeADCSJFlxZpVbPyXEWPSaUtm85YENRriylP8gCJJrX+NWpq/7L7P9yvFTg==",
   "success": true,
   "projectFilePath": "C:\\Users\\EdwardduPlessis\\Documents\\Personal\\Repos\\DallyTally\\DallyTally.Api\\DallyTally.Api.csproj",
   "expectedPackageFiles": [
@@ -61,6 +61,8 @@
     "C:\\Users\\EdwardduPlessis\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\EdwardduPlessis\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
     "C:\\Users\\EdwardduPlessis\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\EdwardduPlessis\\.nuget\\packages\\npgsql\\7.0.1\\npgsql.7.0.1.nupkg.sha512",
+    "C:\\Users\\EdwardduPlessis\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\7.0.1\\npgsql.entityframeworkcore.postgresql.7.0.1.nupkg.sha512",
     "C:\\Users\\EdwardduPlessis\\.nuget\\packages\\serilog\\2.10.0\\serilog.2.10.0.nupkg.sha512",
     "C:\\Users\\EdwardduPlessis\\.nuget\\packages\\serilog.aspnetcore\\5.0.0\\serilog.aspnetcore.5.0.0.nupkg.sha512",
     "C:\\Users\\EdwardduPlessis\\.nuget\\packages\\serilog.extensions.hosting\\4.2.0\\serilog.extensions.hosting.4.2.0.nupkg.sha512",

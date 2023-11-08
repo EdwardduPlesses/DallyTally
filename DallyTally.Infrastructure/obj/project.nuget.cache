@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "9ICe+Yt27ratSdsKEdvmndpOvwQmpXeX70UkAF7LOaLFOBhjPsnpzf/uwWiZ5O/IZ6ZO4bjvKzSTvxsRWfz4UQ==",
+  "dgSpecHash": "v7dpGBerL5buKk3VWVnjk2Ly/aJ4jb1x7cIRVFhFMOfRtBLu5q6NASvfbntq0Ttv3fxsAWJ2Nn9P2Lz/LWeWfQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\EdwardduPlessis\\Documents\\Personal\\Repos\\DallyTally\\DallyTally.Infrastructure\\DallyTally.Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -52,6 +52,8 @@
     "C:\\Users\\EdwardduPlessis\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\EdwardduPlessis\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
     "C:\\Users\\EdwardduPlessis\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\EdwardduPlessis\\.nuget\\packages\\npgsql\\7.0.1\\npgsql.7.0.1.nupkg.sha512",
+    "C:\\Users\\EdwardduPlessis\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\7.0.1\\npgsql.entityframeworkcore.postgresql.7.0.1.nupkg.sha512",
     "C:\\Users\\EdwardduPlessis\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\EdwardduPlessis\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
     "C:\\Users\\EdwardduPlessis\\.nuget\\packages\\system.configuration.configurationmanager\\5.0.0\\system.configuration.configurationmanager.5.0.0.nupkg.sha512",
